@@ -1,4 +1,4 @@
-class TicTacToeAI :
+class tic_tac_toe_lei :
 
     def __init__(self, player = "x"):
         self._squares = {}
